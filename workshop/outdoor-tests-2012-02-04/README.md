@@ -12,7 +12,7 @@ Locations:
 
 Path Profile and Map:
 
-![Path Profile](https://raw.github.com/dimsumlabs/openwrt/tree/master/workshop/outdoor-tests-2012-02-04/profile.png "Path Profile")
-![Map](https://raw.github.com/dimsumlabs/openwrt/tree/master/workshop/outdoor-tests-2012-02-04/map.png "Map")
+![Path Profile](https://github.com/dimsumlabs/openwrt/tree/master/workshop/outdoor-tests-2012-02-04/profile.png "Path Profile")
+![Map](https://github.com/dimsumlabs/openwrt/tree/master/workshop/outdoor-tests-2012-02-04/map.png "Map")
 
 Created using http://www.heywhatsthat.com/profiler.html
