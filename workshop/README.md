@@ -74,3 +74,9 @@ Session #7 - Wireless Community Networks worldwide - soon in HK?
 - for a list, refer to http://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region
 - what's needed to bootstrap a WCN in Hong Kong
 
+
+FIXME
+
+Other unsorted topics
+
+https://docs.google.com/file/d/0B2yD56YxjZy6YzgwNmZiZDYtM2JlYi00NzgzLWJjYTEtMDU0ZTM5NjE0YjYz/edit?hl=en_US%EF%BB%BF - Separating Authentication, Access and Accounting
