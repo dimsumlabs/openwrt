@@ -1,0 +1,27 @@
+hitro[K[K[Kso[Ktory |grep netperf
+ 1651  history |grep [01;31m[Knetperf[m[K
+root@thinkpad:~# netperf '[K-H 192.168.222.123 -p 1234
+TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.222.123 (192.168.222.123) port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384  16384    10.52      18.56   
+root@thinkpad:~# netperf -H 192.168.222.123 -p 1234
+TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.222.123 (192.168.222.123) port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384  16384    10.51      18.32   
+root@thinkpad:~# netperf -H 192.168.222.123 -p 1234
+TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.222.123 (192.168.222.123) port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384  16384    10.62      18.69   
+root@thinkpad:~# service network[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
