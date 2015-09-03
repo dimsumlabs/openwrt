@@ -1,8 +1,8 @@
 # OpenWRT workshops - suggested topics
 
-## Session #1 - Getting started with OpenWRT
+## Session #101 - Getting started with OpenWRT
 
-*Goal: Buying a not-so-randomly chosen cheap router and making it work with OpenWRT*
+*Goal: Buy a not-so-randomly chosen cheap router and make it work with OpenWRT*
 
 - upgrading the firmware from the proprietary vendor firmware
 - making the web interface work
